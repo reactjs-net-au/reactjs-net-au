@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @reactjs-net-au
 
 - 👀 I’m interested in ...
-React, Vue, Angular, .NET, MongoDB, AWS, Azure, mobile apps.
+React, Vue, everything AWS, Azure, mobile apps (React Native, CapacitorJS, Quasar, Framework7).
 
 - 🌱 I’m currently learning ...
-MongoDB
+More about AWS services and architecting large scale cloud applications, and fast, beautiful mobile front ends.
 
 - 💞️ I’m looking to collaborate on ...
 Open source projects
