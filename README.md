@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @reactjs-net-au
 
 - 👀 I’m interested in ...
-React, Vue, everything AWS, Azure, mobile apps (React Native, CapacitorJS, Quasar, Framework7), as well as PHP especially with Symfony 6 and Laravel 9.x. I like checking out interesting new things such as HotWired's Turbo Native for Android and iOS.  I also like Svelte and Riot.JS.
+React, Vue, everything AWS, Azure, mobile apps (React Native, CapacitorJS, Quasar, Framework7), as well as PHP especially with Symfony 6 and Laravel 9.x. I like checking out interesting new things. I also like Svelte and Riot.JS.  I develop APIs and front ends, and am a full stack developer.
 
 - 🌱 I’m currently learning ...
-More about AWS services and architecting large scale cloud applications, and fast, beautiful mobile front ends.
+More about AWS services and architecting large scale cloud applications, and fast, beautiful mobile and Web front ends.
 
 - 💞️ I’m looking to collaborate on ...
 Open source projects
